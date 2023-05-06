@@ -1,4 +1,4 @@
-# Regression Techniques on Housing Dataset
+# Regression Techniques on Datasets (California Housing Dataset, Boston Housing prices, Banking Finance Dataset)
 
 1. This is a repositoty consisting of ML techniques implemented on Housing dataset (XGBoost, Linear Regression, Random Forest)
  
